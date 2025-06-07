@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --color-text: #f4f4f4;
+  --color-background: #222;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+  }
+} */
+
+body {
+  margin: 0;
+  min-width: 320px;
+  /* color: var(--color-text); */
+  /* background: var(--color-background); */
+}
